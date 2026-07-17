@@ -4692,3 +4692,7 @@ input, select, textarea {
     font-size: 1.4rem;
     line-height: 1.2;
 }
+
+.olist-title {
+    font-size: 3rem !important;
+}
